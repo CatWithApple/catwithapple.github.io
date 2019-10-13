@@ -1,0 +1,15 @@
+title: CatWithApple's personal blog
+email: catwithapple@gmail.com
+description:
+  Возможно, на этом сайте будут мои личные статьи. Но это не точно.
+  Если заметите ошибки в статьях, можете прислать pull requst ;)
+  Или написать на почту, но лучше pull request.
+baseurl: ""
+url: ""
+twitter_username: catwithapple
+github_username:  catwithapple
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
